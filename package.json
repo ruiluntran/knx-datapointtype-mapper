@@ -1,6 +1,6 @@
 {
   "name": "knx-datapointtype-mapper",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Mapping KNX ETS5 group addresses csv export datapoint type to the right datapoint type for knxjs",
   "main": "./src/index.js",
   "scripts": {
